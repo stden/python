@@ -10,3 +10,5 @@ python
 Среда разработки PyCharm: http://www.jetbrains.com/pycharm/ 
 
 Wing IDE 101: http://www.wingware.com/wingide
+
+PyQt: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt
